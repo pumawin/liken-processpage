@@ -1,0 +1,10 @@
+@charset 'utf-8';
+.process-page {
+  height: 100%;
+}
+.process-page figure {
+  width: 100%;
+}
+.process-page figure img {
+  width: 100%;
+}
